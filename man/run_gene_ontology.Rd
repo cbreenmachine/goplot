@@ -12,6 +12,3 @@ run_gene_ontology(genes)
 \description{
 This function
 }
-\examples{
-run_gene_ontology()
-}
